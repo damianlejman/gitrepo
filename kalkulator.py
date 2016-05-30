@@ -19,3 +19,8 @@ try:
             print("0")
 except ValueError:
     print("0")
+#
+#
+#tutaj jakies inne zmiany
+#
+#
