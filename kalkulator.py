@@ -19,8 +19,15 @@ try:
             print("0")
 except ValueError:
     print("0")
+<<<<<<< HEAD
 #
 #
 #tutaj jakies inne zmiany
 #
 #
+=======
+
+
+#dodatkowa linijka kodu w celu sprawdzenia zmien w galezi
+#nowa linia do pierwszej galezi
+>>>>>>> galaz_pierwsza
