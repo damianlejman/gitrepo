@@ -22,3 +22,4 @@ except ValueError:
 
 
 #dodatkowa linijka kodu w celu sprawdzenia zmien w galezi
+#nowa linia do pierwszej galezi
