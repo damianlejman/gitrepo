@@ -19,3 +19,6 @@ try:
             print("0")
 except ValueError:
     print("0")
+
+
+#dodatkowa linijka kodu w celu sprawdzenia zmien w galezi
